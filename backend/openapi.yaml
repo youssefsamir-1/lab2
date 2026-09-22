@@ -13,6 +13,7 @@ tags:
     description: Operations related to todo items
 
 paths:
+  /api/todos:
     post:
       tags: [Todos]
       summary: Create a new todo
